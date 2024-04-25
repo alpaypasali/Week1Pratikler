@@ -15,6 +15,6 @@ public class Main {
 
 
             }
-        System.out.println("Girilen sayinin rakamlarının toplamı = " + toplam);
+        System.out.println("Girilen sayinin rakamlarının toplamı : " + toplam);
         }
     }
